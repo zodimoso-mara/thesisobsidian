@@ -1,2 +1,0 @@
-# thesisobsidian
-backup
