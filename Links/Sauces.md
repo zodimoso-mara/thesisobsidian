@@ -42,4 +42,9 @@ https://forums.autodesk.com/t5/maya-animation-and-rigging-forum/rotation-along-t
 Houdini Skel docs
 https://www.sidefx.com/docs/houdini/character/kinefx/skeletons.html
 
+Smart extrude Addon
+[https://superhivemarket.com/products/smart-extrude](https://superhivemarket.com/products/smart-extrude)
+Belnder manifold extrude
 
+Maya Smart extrude
+[[https://developer.blender.org/docs/release_notes/2.90/modeling/](https://developer.blender.org/docs/release_notes/2.90/modeling/)https://help.autodesk.com/view/MAYAUL/2025/ENU/?guid=GUID-21E37C98-B7CA-4B9A-9883-8276FD8AB819](https://help.autodesk.com/view/MAYAUL/2025/ENU/?guid=GUID-21E37C98-B7CA-4B9A-9883-8276FD8AB819)

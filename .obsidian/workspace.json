@@ -21,6 +21,20 @@
               "icon": "lucide-file",
               "title": "Thesis paparr"
             }
+          },
+          {
+            "id": "39b872004b3e5920",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://help.autodesk.com/view/MAYAUL/2025/ENU/?guid=GUID-21E37C98-B7CA-4B9A-9883-8276FD8AB819",
+                "title": "Maya Help | What's New in Modeling | Autodesk",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Maya Help | What's New in Modeling | Autodesk"
+            }
           }
         ]
       },
@@ -284,13 +298,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d97a78247e8a55ec",
+  "active": "94e503a8c3cbbd38",
   "lastOpenFiles": [
-    "Thesis paparr.md",
+    "Vault.md",
     "Links/Sauces.md",
-    "[[[[(Gabor).md(Gabor)]].md[[(Gabor).md(Gabor)]]]].md",
-    "[[(Gabor).md(Gabor)]].md",
-    "(Gabor).md",
+    "Thesis paparr.md",
+    "Tags/[[[[(Gabor).md(Gabor)]].md[[(Gabor).md(Gabor)]]]].md",
+    "Tags/[[(Gabor).md(Gabor)]].md",
+    "Tags/(Gabor).md",
     "Writing.md",
     "Thesis.md",
     "Links/Links.md",
