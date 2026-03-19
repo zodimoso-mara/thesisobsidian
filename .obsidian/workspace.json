@@ -84,12 +84,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.sidefx.com/docs/houdini/character/kinefx/skeletons.html",
-                "title": "Working with skeletons",
+                "url": "https://www.sidefx.com/docs/houdini/character/kinefx/capture.html",
+                "title": "Skin capture",
                 "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "Working with skeletons"
+              "title": "Skin capture"
             }
           },
           {
@@ -120,7 +120,8 @@
               "title": "Culmn - Miro"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -312,10 +313,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d97a78247e8a55ec",
+  "active": "c3e2dfb01553ded3",
   "lastOpenFiles": [
-    "Links/Sauces.md",
     "Thesis paparr.md",
+    "Links/Sauces.md",
     "Vault.md",
     "Tags/[[[[(Gabor).md(Gabor)]].md[[(Gabor).md(Gabor)]]]].md",
     "Tags/[[(Gabor).md(Gabor)]].md",
