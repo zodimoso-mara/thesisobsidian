@@ -26,5 +26,15 @@ https://lisyarus.github.io/blog/posts/gltf-animation.html#section-skeletal-anima
 https://www.youtube.com/@rokandic
 💤 (388) KineFX - Rigging | Esther Trilsch | H20 HIVE - YouTube
 https://www.youtube.com/watch?v=2bjPTvkpNC0
+
+
+
+
+
+https://gabormakesgames.com/blog_decomposition_intro.html
+lisyarus
+https://lisyarus.github.io/blog/posts/gltf-animation.html#section-skeletal-animation
+
+
 Maya Skewing
 https://forums.autodesk.com/t5/maya-animation-and-rigging-forum/rotation-along-the-x-y-axis-is-scaling-and-skewing-my-shape/td-p/8305424#:~:text=Solved!,Go%20to%20Solution.&text=The%20skewing%20happens%20because%20the,can%20parent%20your%20child%20object.
