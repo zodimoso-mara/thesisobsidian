@@ -6,7 +6,7 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
-        "dimension": 33.55314197051978,
+        "dimension": 23.303606048856146,
         "children": [
           {
             "id": "d97a78247e8a55ec",
@@ -27,7 +27,7 @@
       {
         "id": "f1abff0df731c19f",
         "type": "tabs",
-        "dimension": 29.44142746314973,
+        "dimension": 48.662272198526566,
         "children": [
           {
             "id": "52cb30cd01e4e3ef",
@@ -48,7 +48,7 @@
       {
         "id": "25ccd529e728241d",
         "type": "tabs",
-        "dimension": 37.00543056633049,
+        "dimension": 28.034121752617292,
         "children": [
           {
             "id": "b0fd762cfc9130cd",
@@ -84,12 +84,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.notion.so/login?utm_source=public_page&utm_content=sign_up_or_log_in&utm_campaign=1ed0cf86f677805baf65dde114ae4c35&feature_intent=undefined",
-                "title": "Notion - Log in",
+                "url": "https://www.notion.so/Weekly-Planner-2070cf86f6778085b70cd8b02d11d429",
+                "title": "Weekly Planner | Notion",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Notion - Log in"
+              "title": "Weekly Planner | Notion"
             }
           }
         ],
@@ -177,7 +177,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +186,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks"
             }
           },
           {
@@ -259,13 +258,23 @@
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
+          },
+          {
+            "id": "abd2c0036c626142",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 629.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -285,45 +294,6 @@
       "omnisearch:Omnisearch": false,
       "obsidian-full-calendar:Open Full Calendar": false
     }
-  },
-  "floating": {
-    "id": "5285d058ac1dc63d",
-    "type": "floating",
-    "children": [
-      {
-        "id": "b847285760b0c3a9",
-        "type": "window",
-        "children": [
-          {
-            "id": "d0a1e65ee4c5f0ac",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8f4e9dfda0ff8c30",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://www.notion.so/verifyNoPopupBlockerHtmlAndRedirect?redirectUri=https%3A%2F%2Fwww.notion.so%2Fgooglepopupredirect%3FcallbackType%3Dpopup%26redirectToAuth%3Dtrue%26requestId%3D15487a9b-24e8-431f-8238-eac938146d5f",
-                    "title": "data:text/plain,",
-                    "mode": "blank"
-                  },
-                  "icon": "globe-2",
-                  "title": "data:text/plain,"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
   },
   "active": "ca9c6f29bb53edfd",
   "lastOpenFiles": [
