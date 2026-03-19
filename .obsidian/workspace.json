@@ -105,6 +105,20 @@
               "icon": "globe-2",
               "title": "Solved: rotation along the X,Y axis is scaling and skewing my shape - Autodesk Community"
             }
+          },
+          {
+            "id": "a407712d72a6064d",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://miro.com/app/board/uXjVJvRCimk=/",
+                "title": "Culmn - Miro",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Culmn - Miro"
+            }
           }
         ]
       }
@@ -298,11 +312,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "94e503a8c3cbbd38",
+  "active": "d97a78247e8a55ec",
   "lastOpenFiles": [
-    "Vault.md",
     "Links/Sauces.md",
     "Thesis paparr.md",
+    "Vault.md",
     "Tags/[[[[(Gabor).md(Gabor)]].md[[(Gabor).md(Gabor)]]]].md",
     "Tags/[[(Gabor).md(Gabor)]].md",
     "Tags/(Gabor).md",
