@@ -31,14 +31,12 @@
             "id": "da76d9959dfb4b9d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Thesis paparr.md",
-                "mode": "source",
-                "source": false
+                "path": "/"
               },
               "icon": "lucide-file",
-              "title": "Thesis paparr"
+              "title": "Thesis"
             }
           }
         ]
@@ -222,7 +220,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 614.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,10 +242,10 @@
   },
   "active": "da76d9959dfb4b9d",
   "lastOpenFiles": [
+    "Thesis paparr.md",
     "Thesis.md",
     "Tags",
     "Writing.md",
-    "Thesis paparr.md",
     "Links/Links.md",
     "Untitled.base",
     "Thesis paparr.docx",

@@ -1,7 +1,7 @@
 A simple comparative analysis of rigging software.
 
 1. Intro
-    1. ????
+    1. ?????
 2. Houdini
     1. What is a bone
     2. What is a rig
