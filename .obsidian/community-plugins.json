@@ -8,5 +8,10 @@
   "omnisearch",
   "obsidian-outliner",
   "tag-wrangler",
-  "docxer"
+  "docxer",
+  "biblib",
+  "obsidian-latex-environments",
+  "obsidian-latex-suite",
+  "obsidian-pretty-bibtex",
+  "quick-latex"
 ]

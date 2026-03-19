@@ -30,7 +30,7 @@ https://www.youtube.com/watch?v=2bjPTvkpNC0
 
 
 
-Ggabor
+Gabor Szauer
 https://gabormakesgames.com/blog_decomposition_intro.html
 Nikita Lisitsa
 https://lisyarus.github.io/blog/posts/gltf-animation.html#section-skeletal-animation
@@ -38,3 +38,8 @@ https://lisyarus.github.io/blog/posts/gltf-animation.html#section-skeletal-anima
 
 Maya Skewing
 https://forums.autodesk.com/t5/maya-animation-and-rigging-forum/rotation-along-the-x-y-axis-is-scaling-and-skewing-my-shape/td-p/8305424#:~:text=Solved!,Go%20to%20Solution.&text=The%20skewing%20happens%20because%20the,can%20parent%20your%20child%20object.
+
+Houdini Skel docs
+https://www.sidefx.com/docs/houdini/character/kinefx/skeletons.html
+
+
