@@ -24,67 +24,38 @@
         ]
       },
       {
-        "id": "d1427a94af401720",
-        "type": "split",
+        "id": "506ab70e977765cb",
+        "type": "tabs",
         "children": [
           {
-            "id": "506ab70e977765cb",
-            "type": "tabs",
-            "dimension": 63.17891373801917,
-            "children": [
-              {
-                "id": "da76d9959dfb4b9d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Links/Sauces.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Sauces"
-                }
+            "id": "da76d9959dfb4b9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Links/Sauces.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "2663fdbf320e3858",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://www.google.com/?zx=1773879776554&no_sw_cr=1",
-                    "title": "Google",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Google"
-                }
-              }
-            ]
+              "icon": "lucide-file",
+              "title": "Sauces"
+            }
           },
           {
-            "id": "87d2564bb08edab0",
-            "type": "tabs",
-            "dimension": 36.82108626198083,
-            "children": [
-              {
-                "id": "a1899d35d9d15675",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Writing.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Writing"
-                }
-              }
-            ]
+            "id": "2663fdbf320e3858",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.google.com/?zx=1773880020453&no_sw_cr=1",
+                "title": "Google",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Google"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -285,14 +256,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a1899d35d9d15675",
+  "active": "da76d9959dfb4b9d",
   "lastOpenFiles": [
     "Links/Sauces.md",
+    "Writing.md",
     "Links/Links.md",
     "Thesis paparr.md",
     "Thesis.md",
     "Tags",
-    "Writing.md",
     "Untitled.base",
     "Thesis paparr.docx",
     "2026-03-18.md",
