@@ -30,9 +30,9 @@ https://www.youtube.com/watch?v=2bjPTvkpNC0
 
 
 
-
+Ggabor
 https://gabormakesgames.com/blog_decomposition_intro.html
-lisyarus
+Nikita Lisitsa
 https://lisyarus.github.io/blog/posts/gltf-animation.html#section-skeletal-animation
 
 
