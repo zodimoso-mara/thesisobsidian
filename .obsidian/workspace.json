@@ -6,7 +6,7 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
-        "dimension": 33.97982932505818,
+        "dimension": 52.56012412723041,
         "children": [
           {
             "id": "d97a78247e8a55ec",
@@ -23,25 +23,22 @@
             }
           },
           {
-            "id": "39b872004b3e5920",
+            "id": "19879995d210b8d0",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://help.autodesk.com/view/MAYAUL/2025/ENU/?guid=GUID-21E37C98-B7CA-4B9A-9883-8276FD8AB819",
-                "title": "Maya Help | What's New in Modeling | Autodesk",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Maya Help | What's New in Modeling | Autodesk"
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f1abff0df731c19f",
         "type": "tabs",
-        "dimension": 33.785880527540726,
+        "dimension": 15.205585725368504,
         "children": [
           {
             "id": "52cb30cd01e4e3ef",
@@ -310,10 +307,11 @@
       "bases:Create new base": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "c3e2dfb01553ded3",
+  "active": "19879995d210b8d0",
   "lastOpenFiles": [
     "Thesis paparr.md",
     "Links/Sauces.md",
