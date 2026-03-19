@@ -76,31 +76,17 @@
             }
           },
           {
-            "id": "c3e2dfb01553ded3",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.sidefx.com/docs/houdini/character/kinefx/capture.html",
-                "title": "Skin capture",
-                "mode": "blank"
-              },
-              "icon": "globe-2",
-              "title": "Skin capture"
-            }
-          },
-          {
             "id": "4f9386cc36292339",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://forums.autodesk.com/t5/maya-animation-and-rigging-forum/rotation-along-the-x-y-axis-is-scaling-and-skewing-my-shape/td-p/8305424#:~:text=Solved!,Go%20to%20Solution.&text=The%20skewing%20happens%20because%20the,can%20parent%20your%20child%20object.",
-                "title": "Solved: rotation along the X,Y axis is scaling and skewing my shape - Autodesk Community",
-                "mode": "webview"
+                "file": "2026-03-18 Jobs.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "Solved: rotation along the X,Y axis is scaling and skewing my shape - Autodesk Community"
+              "icon": "lucide-file",
+              "title": "2026-03-18 Jobs"
             }
           },
           {
@@ -311,8 +297,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "19879995d210b8d0",
+  "active": "4f9386cc36292339",
   "lastOpenFiles": [
+    "2026-03-19 Doll up Mia.md",
+    "2026-03-18 Og.md",
+    "2026-03-18 Jobs.md",
     "Thesis paparr.md",
     "Links/Sauces.md",
     "Vault.md",
