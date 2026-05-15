@@ -1,0 +1,89 @@
+/* URL Viewer Plugin - Scoped Styles */
+
+/* -- Normal mode -- */
+
+.url-webview-opener .view-header {
+    height: 32px !important;
+}
+
+.url-webview-opener .view-header .view-actions {
+    gap: 4px;
+    margin-right: 4px;
+}
+
+.url-webview-opener .view-action {
+    width: 24px;
+    padding: 2px;
+}
+
+.url-webview-opener .view-content {
+    padding: 0 !important;
+}
+
+.url-webview-opener .view-content webview {
+    width: 100%;
+    height: 100%;
+}
+
+/* -- Edit mode -- */
+
+.url-webview-opener-edit {
+    margin: 36px;
+}
+
+.url-webview-opener-edit .url-textarea {
+    width: 100%;
+    min-height: 300px;
+}
+
+.url-webview-opener-edit .url-edit-buttons {
+    display: flex;
+    gap: 8px;
+    margin-top: 12px;
+}
+
+/* -- Fullscreen mode -- */
+
+.url-webview-opener.fullscreen-mode .view-header {
+    transition: transform 0.2s ease;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+.url-webview-opener.fullscreen-mode.header-hidden .view-header {
+    transform: translateY(-100%);
+}
+
+.url-webview-opener.fullscreen-mode .view-header .view-header-title {
+    opacity: 0;
+}
+
+.url-webview-opener.fullscreen-mode .chevron-toggle {
+    position: absolute;
+    top: -6px;
+    rotate: -90deg;
+    left: 50%;
+    transform: translateX(-50%);
+    cursor: pointer;
+    transition: opacity 0.2s ease;
+    z-index: 1001;
+}
+
+.url-webview-opener.fullscreen-mode .chevron-toggle:hover {
+    opacity: 1;
+}
+
+.url-webview-opener.fullscreen-mode.header-hidden  .chevron-toggle {
+    top: 2px;
+    rotate: 90deg;
+}
+
+.url-webview-opener.fullscreen-mode.header-hidden .view-content {
+    transform: translateY(0);
+}
+
+.url-webview-opener.fullscreen-mode .view-content webview {
+    position: absolute;
+    top: 0;
+}

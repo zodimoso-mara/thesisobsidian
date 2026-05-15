@@ -1,3 +1,14 @@
 {
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheckDictionary": [
+    "Kinefx",
+    "Kinefx",
+    "outliner",
+    " EXecutio",
+    "renamer"
+  ],
+  "showUnsupportedFiles": true,
+  "spellcheck": true,
+  "readableLineLength": false,
+  "vimMode": true
 }

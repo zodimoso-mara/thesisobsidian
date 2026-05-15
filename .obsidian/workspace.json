@@ -4,96 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "f1abff0df731c19f",
-        "type": "tabs",
-        "dimension": 36.205698401667824,
-        "children": [
-          {
-            "id": "52cb30cd01e4e3ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thesis paparr.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Thesis paparr"
-            }
-          }
-        ]
-      },
-      {
         "id": "7c909210ef1e9a01",
         "type": "tabs",
-        "dimension": 34.2946490618485,
         "children": [
           {
-            "id": "d97a78247e8a55ec",
+            "id": "dcd85671d2b45864",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thesis paparr.md",
+                "file": "Summer Project specs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thesis paparr"
+              "title": "Summer Project specs"
             }
           }
         ]
       },
       {
-        "id": "25ccd529e728241d",
+        "id": "314583c969637e12",
         "type": "tabs",
-        "dimension": 29.499652536483666,
         "children": [
           {
-            "id": "b0fd762cfc9130cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Links/Sauces.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sauces"
-            }
-          },
-          {
-            "id": "a407712d72a6064d",
+            "id": "4121c4a582ecd6a5",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://miro.com/app/board/uXjVJvRCimk=/",
-                "title": "Culmn - Miro",
+                "url": "https://vim.rtorr.com/",
+                "title": "Vim Cheat Sheet",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Culmn - Miro"
-            }
-          },
-          {
-            "id": "ca9c6f29bb53edfd",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.notion.so/Weekly-Planner-2070cf86f6778085b70cd8b02d11d429",
-                "title": "Weekly Planner | Notion",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Weekly Planner | Notion"
+              "title": "Vim Cheat Sheet"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +95,7 @@
             }
           },
           {
-            "id": "94e503a8c3cbbd38",
+            "id": "f09d20a65ad2ac9d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -161,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 349.5
   },
   "right": {
     "id": "f2d97a08c7dd2058",
@@ -178,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thesis paparr.md",
+                "file": "Summer Project specs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Thesis paparr"
+              "title": "Backlinks for Summer Project specs"
             }
           },
           {
@@ -240,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Summer Project specs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Summer Project specs"
             }
           },
           {
@@ -276,10 +223,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 878.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "url-webview-opener:Create .url file": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "tldraw:Create new tldrawing": false,
       "markdown-importer:Open format converter": false,
       "homepage:Open homepage": false,
       "workspaces:Manage workspace layouts": false,
@@ -293,40 +243,57 @@
       "bases:Create new base": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "d97a78247e8a55ec",
+  "active": "abd2c0036c626142",
   "lastOpenFiles": [
-    "Links/Sauces.md",
-    "Thesis paparr.md",
-    "2026-03-18 Jobs.md",
-    "2026-03-19 Doll up Mia.md",
-    "2026-03-18 Og.md",
-    "Vault.md",
-    "Tags/[[[[(Gabor).md(Gabor)]].md[[(Gabor).md(Gabor)]]]].md",
-    "Tags/[[(Gabor).md(Gabor)]].md",
-    "Tags/(Gabor).md",
-    "Writing.md",
-    "Thesis.md",
-    "Links/Links.md",
+    "Summer Project specs.md",
     "Tags",
-    "Untitled.base",
+    "trash/Table of contents.base",
+    "trash/Thesis paparr.md",
+    "trash/trash.md",
+    "trash",
+    "trash/Untitled 1.md",
+    "Vault.md",
+    "trash/Untitled.md",
+    "trash/Project RUSHING.md",
+    "trash/Links/Sauces.md",
+    "trash/ApexNotes.md",
+    "trash/2026-03-18 Og.md",
+    "trash/2026-03-19 Doll up Mia.md",
+    "trash/Culmn.md",
+    "trash/URL 1775280415797.url",
+    "trash/Pasted image 20260404001326.png",
+    "trash/Screencast_20260403_233527.gif",
+    "trash/Analysing these paradigms and their implementation will assist in breaking down the barrier between software as well as discovering which tools and methods should be shared or improved..md",
+    "trash/Pasted image 20260401210743.png",
+    "trash/Pasted image 20260401205840.png",
+    "trash/Pasted image 20260401004724.png",
+    "trash/Pasted image 20260401003203.png",
+    "trash/Pasted image 20260401003031.png",
+    "trash/Pasted image 20260401002816.png",
+    "trash/Pasted image 20260401002802.png",
+    "trash/Pasted image 20260401001352.png",
+    "trash/Github readme.md",
+    "trash/Excalidraw/Drawing 2026-03-23 14.45.49.excalidraw.md",
+    "trash/2026-03-23.md",
+    "trash/Tldraw 2026-03-21 9.27PM.md",
+    "trash/Excalidraw",
+    "Tldraw 2026-03-21 9.25PM.md",
+    "trash/2026-03-18 Jobs.md",
+    "trash/Untitled 1.canvas",
+    "trash/Untitled.canvas",
+    "trash/Links/Courses.md",
+    "trash/Tags/[[[[(Gabor).md(Gabor)]].md[[(Gabor).md(Gabor)]]]].md",
+    "trash/Tags/[[(Gabor).md(Gabor)]].md",
+    "trash/Tags/(Gabor).md",
+    "trash/Writing.md",
+    "trash/Thesis.md",
+    "trash/Tags",
+    "trash/Untitled.base",
     "Thesis paparr.docx",
-    "2026-03-18.md",
-    "Welcome.md",
-    "Table of contents.base",
-    "Untitled 1.md",
-    "Tags.md",
-    "Untitled.md",
-    "Links/Courses.md",
-    "Tags/#links/#links.md",
     "Tags/#links",
-    "Links",
-    "Sauces 1.md",
-    "Tags/links.md",
-    "Culmn.csv",
-    "Culmn - Miro.html"
+    "trash/Links"
   ]
 }

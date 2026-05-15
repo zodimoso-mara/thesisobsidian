@@ -14,5 +14,12 @@
   "obsidian-latex-suite",
   "obsidian-pretty-bibtex",
   "quick-latex",
-  "obsidian-languagetool-plugin"
+  "fast-text-color",
+  "long-sentence-highlighter",
+  "shiki-highlighter",
+  "svelte-syntax-highlighter",
+  "obsidian-excalidraw-plugin",
+  "tldraw",
+  "highlightr-plugin",
+  "url-webview-opener"
 ]

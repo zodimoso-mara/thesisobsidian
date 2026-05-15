@@ -1,0 +1,6 @@
+{
+  "maxWords": 40,
+  "highlightColor": "#ff9e9e",
+  "enabled": false,
+  "highlightStyle": "background"
+}

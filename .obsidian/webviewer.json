@@ -1,5 +1,6 @@
 {
   "openExternalURLs": true,
   "enableAdblocking": true,
-  "searchEngine": "google"
+  "searchEngine": "google",
+  "homepage": "https://miro.com/app/board/uXjVJvRCimk=/"
 }
