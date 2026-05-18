@@ -76,10 +76,8 @@ _not final_
 	    
 
 - Bibliography
-	- list videos
-		- 
-	- conference talks
-		- * [APEX 101\|Houdini Talks \| SideFX](https://www.sidefx.com/learn/talks/apex-101/ "APEX 101|Houdini Talks | SideFX")
+	- Conference Talks
+		-  [APEX 101\|Houdini Talks \| SideFX](https://www.sidefx.com/learn/talks/apex-101/ "APEX 101|Houdini Talks | SideFX")
 		* [A Modular Approach to Rigging in Houdini\|Houdini Talks \| SideFX](https://www.sidefx.com/learn/talks/a-modular-approach-to-rigging-in-houdini/ "A Modular Approach to Rigging in Houdini|Houdini Talks | SideFX")
 		* [Procedural Character Rigging Techniques in APEX \| Esther Trilsch \| Houdini 20\.5 HIVE Paris \| Videos \& Movies on Vimeo](https://vimeo.com/970300875 "Procedural Character Rigging Techniques in APEX | Esther Trilsch | Houdini 20.5 HIVE Paris | Videos \& Movies on Vimeo")
 		* [Unreal Fest 2025\: Control Rig\: Tips \& Tricks for Games \| Talks and demos](https://dev.epicgames.com/community/learning/talks-and-demos/XYDP/unreal-engine-unreal-fest-2025-control-rig-tips-tricks-for-games "Unreal Fest 2025: Control Rig: Tips \& Tricks for Games | Talks and demos")
@@ -107,7 +105,8 @@ _not final_
 		* [Designing an interaction with an octopus \| ACM SIGGRAPH 2016 Talks](https://dl.acm.org/doi/10.1145/2897839.2927434 "Designing an interaction with an octopus | ACM SIGGRAPH 2016 Talks")
 		* [AutoSpline \| ACM SIGGRAPH 2016 Talks](https://dl.acm.org/doi/10.1145/2897839.2927439 "AutoSpline | ACM SIGGRAPH 2016 Talks")
 		* [A hybrid approach to procedural tree skeletonization \| ACM SIGGRAPH 2017 Talks](https://dl.acm.org/doi/10.1145/3084363.3085065 "A hybrid approach to procedural tree skeletonization | ACM SIGGRAPH 2017 Talks")
-
+	* List Videos
+		* 
 
 
 	- not wikis
