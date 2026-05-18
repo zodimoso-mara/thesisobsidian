@@ -32,22 +32,28 @@ The software we are going to test are as follows:
 ### Potential problems
 
 **Wings**
+
 Wings vary in complexity from convoluted beetle wings to simple bat wings, but all require multiple parts moving in unison smoothly.  It is also important to consider how the wings need to be animated and if there is a way to make that animation process easier. 
 Houdini at first seems to have a  wing component but the Groom Deform component is more for rigging simulated hair.
 
-**Hair**
+**Hair
+**
 The Humanoid character has stylised hair. The rig for the hair needs to loosely follow momentum (not necessarily gravity)  and interact with the character's body. Ideally it should also be editable if necessary.
 
 **Clothes**
+
 The same general problem as hair but the character specifically has a split skirt which needs to interact with every leg movement appropriately.
 
 **Robotics** 
+
 Surprisingly most of the fundamental systems for robotics already exist as simple constraints in Blender and Unreal, only requiring driver management. Houdini however may need more effort, though this opinion may be just due to how hard it is to learn about Apex nodes.
 
 **Automation**
+
 Blender and Houdini allow for scripting and modularity with relative ease. Unreal does have scripting implementations but strongly encourages and relies on node based modular solutions. This is both a strength and situational weakness as some things like tools are typically better used as scripts. In the same vain Blender and Houdini rely to much on scripting, using them in place of modular graphs or requiring scripts to automate anything. 
 
 **Nodes and Scripts**
+
 Each API and system can be obtuse or unintuitive in areas so some tools maybe easy to make in one software and impractical in others. This does mean each rig may not have identical features, for instance Blender And Unreal can easily have physics driven clothes but Houdini may struggle or use a different system outright. This is expected as each system ooperates on different priorities.
 ## Outline
 
