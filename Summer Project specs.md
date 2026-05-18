@@ -84,6 +84,7 @@ _not final_
 	    
 
 - Bibliography
+	- **!!!Not final this a list of potentially useful sources!!!!**
 	- Conference Talks
 		-  [APEX 101\|Houdini Talks \| SideFX](https://www.sidefx.com/learn/talks/apex-101/ "APEX 101|Houdini Talks | SideFX")
 		* [A Modular Approach to Rigging in Houdini\|Houdini Talks \| SideFX](https://www.sidefx.com/learn/talks/a-modular-approach-to-rigging-in-houdini/ "A Modular Approach to Rigging in Houdini|Houdini Talks | SideFX")
