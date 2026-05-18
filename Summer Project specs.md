@@ -112,6 +112,7 @@ _not final_
 		* [Amazon\.com\: Maya \& Unreal Engine \| Complete Guide to fast 3D Animation and Rigging eBook \: Creatives\, Class\: Kindle Store](https://www.amazon.com/Unreal-Engine-Complete-Animation-Rigging-ebook/dp/B07YBJT9D3 "Amazon.com: Maya \& Unreal Engine | Complete Guide to fast 3D Animation and Rigging eBook : Creatives, Class: Kindle Store")
 		* [3D Game Animation with Unreal Engine 5\: Uncover real\-time animation techniques for modern games and interactive experiences by Trygve Bjellvåg\, Paperback \| Barnes \& Noble®](https://www.barnesandnoble.com/w/3d-game-animation-with-unreal-engine-5-trygve-bjellvag/1148774197 "3D Game Animation with Unreal Engine 5: Uncover real-time animation techniques for modern games and interactive experiences by Trygve Bjellvåg, Paperback | Barnes \& Noble®")
 	- Papers
+ 		* Find more. Bellow are just maya
 		* [Rigging octopuses in Penguins of Madagascar \| Proceedings of the 2015 Digital Production Symposium](https://dl.acm.org/doi/10.1145/2791261.2791274 "Rigging octopuses in Penguins of Madagascar | Proceedings of the 2015 Digital Production Symposium")
 		* [Sketch to pose in Pixar\'s presto animation system \| ACM SIGGRAPH 2015 Talks](https://dl.acm.org/doi/10.1145/2775280.2792583 "Sketch to pose in Pixar\'s presto animation system | ACM SIGGRAPH 2015 Talks")
 		* [MultiThreading\_forWebsite \- disney\_MultiThreading\_SIGGRAPH2017\.pdf](https://www.multithreadingandvfx.org/course_notes/2017/disney_MultiThreading_SIGGRAPH2017.pdf "MultiThreading_forWebsite - disney_MultiThreading_SIGGRAPH2017.pdf")
