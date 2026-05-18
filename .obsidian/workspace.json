@@ -84,8 +84,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -230,6 +229,8 @@
   "active": "dcd85671d2b45864",
   "lastOpenFiles": [
     "Summer Project specs.md",
+    "Summer Project specs.txt",
+    ".md",
     "JohnThomasdocx.pdf",
     "Resume Fix.md",
     "JohnThomasResume.docx.pdf",
@@ -273,8 +274,6 @@
     "trash/Tags/[[(Gabor).md(Gabor)]].md",
     "trash/Tags/(Gabor).md",
     "trash/Writing.md",
-    "trash/Tags",
-    "trash/Untitled.base",
-    "Thesis paparr.docx"
+    "trash/Tags"
   ]
 }
