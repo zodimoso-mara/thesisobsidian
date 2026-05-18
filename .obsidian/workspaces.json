@@ -10,20 +10,6 @@
             "type": "tabs",
             "children": [
               {
-                "id": "69b9e469f2e2faff",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "ApexNotes.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "ApexNotes"
-                }
-              },
-              {
                 "id": "dcd85671d2b45864",
                 "type": "leaf",
                 "state": {
@@ -37,8 +23,27 @@
                   "title": "Summer Project specs"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
+          },
+          {
+            "id": "314583c969637e12",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4121c4a582ecd6a5",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://vim.rtorr.com/",
+                    "title": "Vim Cheat Sheet",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Vim Cheat Sheet"
+                }
+              }
+            ]
           }
         ],
         "direction": "vertical"
@@ -92,7 +97,7 @@
                 }
               },
               {
-                "id": "037d9120645d21a0",
+                "id": "f09d20a65ad2ac9d",
                 "type": "leaf",
                 "state": {
                   "type": "mk-path-view",
@@ -122,7 +127,6 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Summer Project specs.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -132,7 +136,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Summer Project specs"
+                  "title": "Backlinks"
                 }
               },
               {
@@ -184,13 +188,12 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Welcome.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Welcome"
+                  "title": "Outline"
                 }
               },
               {
@@ -215,11 +218,13 @@
                   "title": "Source Control"
                 }
               }
-            ]
+            ],
+            "currentTab": 6
           }
         ],
         "direction": "horizontal",
-        "width": 200
+        "width": 878.5,
+        "collapsed": true
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -242,8 +247,8 @@
           "omnisearch:Omnisearch": false
         }
       },
-      "active": "dcd85671d2b45864",
-      "mtime": "2026-05-13T16:43:35-04:00"
+      "active": "f09d20a65ad2ac9d",
+      "mtime": "2026-05-15T10:27:06-04:00"
     }
   },
   "active": "h"

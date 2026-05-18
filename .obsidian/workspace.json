@@ -22,26 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "314583c969637e12",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4121c4a582ecd6a5",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://vim.rtorr.com/",
-                "title": "Vim Cheat Sheet",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Vim Cheat Sheet"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +75,7 @@
             }
           },
           {
-            "id": "f09d20a65ad2ac9d",
+            "id": "2e54ab9f2bf75e78",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -125,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summer Project specs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Summer Project specs"
+              "title": "Backlinks"
             }
           },
           {
@@ -187,13 +166,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summer Project specs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Summer Project specs"
+              "title": "Outline"
             }
           },
           {
@@ -243,12 +221,18 @@
       "bases:Create new base": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "abd2c0036c626142",
+  "active": "dcd85671d2b45864",
   "lastOpenFiles": [
     "Summer Project specs.md",
+    "JohnThomasdocx.pdf",
+    "Resume Fix.md",
+    "JohnThomasResume.docx.pdf",
     "Tags",
     "trash/Table of contents.base",
     "trash/Thesis paparr.md",
@@ -289,11 +273,8 @@
     "trash/Tags/[[(Gabor).md(Gabor)]].md",
     "trash/Tags/(Gabor).md",
     "trash/Writing.md",
-    "trash/Thesis.md",
     "trash/Tags",
     "trash/Untitled.base",
-    "Thesis paparr.docx",
-    "Tags/#links",
-    "trash/Links"
+    "Thesis paparr.docx"
   ]
 }
